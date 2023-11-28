@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Linked_doc - Command 1</Text>
+    <Description>Some description for Linked_doc</Description>
+    <Assembly>Linked_doc.dll</Assembly>
+    <FullClassName>Linked_doc.Command1</FullClassName>
+    <ClientId>e471f035-188d-4c0b-bd01-b8404a48921d</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>Linked_doc - Command 2</Text>
+    <Description>Some description for Linked_doc</Description>
+    <Assembly>Linked_doc.dll</Assembly>
+    <FullClassName>Linked_doc.Command2</FullClassName>
+    <ClientId>9bef37c8-505a-45dd-aa59-663b77e41527</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+	<AddIn Type="Command">
+		<Text>Linked_doc - Command 3</Text>
+		<Description>Some description for Linked_doc</Description>
+		<Assembly>Linked_doc.dll</Assembly>
+		<FullClassName>Linked_doc.Command3</FullClassName>
+		<ClientId>CE2B0245-E82A-4A85-8C14-6A19BF6FCC54</ClientId>
+		<VendorId>com.YOUR COMPANY NAME</VendorId>
+		<VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+	</AddIn>
+  <AddIn Type="Application">
+    <Name>Linked_doc</Name>
+    <Assembly>Linked_doc.dll</Assembly>
+    <FullClassName>Linked_doc.App</FullClassName>
+    <ClientId>9332d045-020f-44e4-b14e-e63d1910f7c7</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
